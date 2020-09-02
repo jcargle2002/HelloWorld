@@ -1,2 +1,3 @@
-# HelloWorld
-This is my first repository!
+![headshot](me.jpg)
+# A (very) little insight
+Hi Everyone! My name is Jim Cargle.
